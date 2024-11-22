@@ -4,6 +4,10 @@
 
 A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) color palette.
 
+## 📸 Screenshots
+
+![screenshots](Screenshots.png)
+
 ## ✨ Features
 
 - 🎯 Catppuccin Mocha color scheme
@@ -35,12 +39,6 @@ A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https
    ```bash
    source ~/.zshrc
    ```
-
-## 📸 Screenshots
-
-![screenshots](Screenshots.png)
-
-
 
 
 ## 📄 License
