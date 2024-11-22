@@ -48,7 +48,7 @@ GPL-3.0 License
 ## 🙏 Acknowledgments
 
 - Thanks to [Catppuccin](https://github.com/catppuccin/catppuccin) for the beautiful color palette
-- Thanks to [Oh My Zsh](https://ohmyz.sh/) for the framework
+
 
 ## 👨‍💻 Author
 
