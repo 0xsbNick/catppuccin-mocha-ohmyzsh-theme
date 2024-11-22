@@ -38,8 +38,8 @@ A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https
 
 ## 📸 Screenshots
 
-[Add screenshots here]
-## 📸 Screenshots
+[Screenshots.png]
+
 
 
 
