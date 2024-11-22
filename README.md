@@ -38,7 +38,7 @@ A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https
 
 ## 📸 Screenshots
 
-![screenshots][Screenshots.png]
+![screenshots](Screenshots.png)
 
 
 
