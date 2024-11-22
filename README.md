@@ -1,2 +1,2 @@
-# catppuccin-ohmyzsh-theme
-This is an ohmyzsh theme
+# Catppuccin Mocha Theme for Oh My Zsh
+
