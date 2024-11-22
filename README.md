@@ -1,6 +1,6 @@
 # 🎨 Catppuccin Mocha Zsh Theme
 
-[中文](README.md) | English
+[中文](README_ZH.md) | English
 
 A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) color palette.
 
