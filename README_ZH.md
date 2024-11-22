@@ -4,6 +4,10 @@
 
 一个基于 [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 配色方案的精美、现代且优雅的 Zsh 主题。
 
+## 📸 预览截图
+
+![screenshots](Screenshots.png)
+
 ## ✨ 特性
 
 - 🎯 Catppuccin Mocha 配色方案
@@ -36,9 +40,6 @@
    source ~/.zshrc
    ```
 
-## 📸 预览截图
-
-[此处添加主题截图]
 
 ## 📄 许可证
 
@@ -47,7 +48,6 @@ GPL-3.0 许可证
 ## 🙏 致谢
 
 - 感谢 [Catppuccin](https://github.com/catppuccin/catppuccin) 提供的精美配色方案
-- 感谢 [Oh My Zsh](https://ohmyz.sh/) 提供的框架支持
 
 ## 👨‍💻 作者
 
