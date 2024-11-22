@@ -1,63 +1,65 @@
-# 🎨 Catppuccin Mocha Zsh 主题
+# 🎨 Catppuccin Mocha Zsh Theme
 
-一个基于 [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 配色方案的精美、现代且优雅的 Zsh 主题。
+[中文](README.md) | English
 
-## ✨ 特性
+A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) color palette.
 
-- 🎯 Catppuccin Mocha 配色方案
-- 💫 双行提示符
-- 🔄 Git 状态指示器
-- ✅ 命令执行状态显示
-- 📂 当前目录路径
-- 👤 用户名和主机名显示
-- ⏰ 右侧实时时间显示
+## ✨ Features
 
-## 📦 安装方法
+- 🎯 Catppuccin Mocha color scheme
+- 💫 Two-line prompt design
+- 🔄 Git status indicators
+- ✅ Command execution status
+- 📂 Current directory path
+- 👤 Username and hostname display
+- ⏰ Real-time clock in RPROMPT
 
-1. 克隆此仓库：
+## 📦 Installation
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/0xsbNick/catppuccin-mocha-zsh-theme.git
    ```
 
-2. 复制主题文件到 Oh My Zsh 的主题目录：
+2. Copy the theme file to Oh My Zsh themes directory:
    ```bash
    cp catppuccin-mocha.zsh-theme ~/.oh-my-zsh/themes/
    ```
 
-3. 在 `~/.zshrc` 中设置主题：
+3. Set the theme in your `~/.zshrc`:
    ```bash
    ZSH_THEME="catppuccin-mocha"
    ```
 
-4. 重新加载 Zsh 配置：
+4. Reload your Zsh configuration:
    ```bash
    source ~/.zshrc
    ```
 
-## 📸 预览截图
+## 📸 Screenshots
+
+[Add screenshots here]
+## 📸 Screenshots
 
 
 
-## 📄 许可证
+## 📄 License
 
-GPL-3.0 许可证
+GPL-3.0 License
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
-- 感谢 [Catppuccin](https://github.com/catppuccin/catppuccin) 提供的精美配色方案
-- 感谢 [Oh My Zsh](https://ohmyz.sh/) 提供的框架支持
+- Thanks to [Catppuccin](https://github.com/catppuccin/catppuccin) for the beautiful color palette
+- Thanks to [Oh My Zsh](https://ohmyz.sh/) for the framework
 
-## 👨‍💻 作者
+## 👨‍💻 Author
 
 0xsbNick (https://github.com/0xsbNick)
 
+## ⚙️ Customization
 
+All colors are defined at the top of the theme file. You can easily modify them according to your preferences:
 
-## ⚙️ 自定义
-
-主题文件中的所有颜色都在文件顶部定义，你可以根据个人喜好轻松修改：
-
-- 🎨 修改提示符样式
-- 🌈 调整颜色搭配
-- ➕ 添加或移除显示元素
-
+- 🎨 Modify prompt style
+- 🌈 Adjust color combinations
+- ➕ Add or remove display elements
