@@ -4,9 +4,7 @@
 
 一个基于 [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 配色方案的精美、现代且优雅的 Zsh 主题。
 
-## 📸 预览截图
 
-![screenshots](Screenshots.png)
 
 ## ✨ 特性
 

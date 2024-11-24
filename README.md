@@ -4,9 +4,6 @@
 
 A beautiful, modern, and elegant Zsh theme based on the [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) color palette.
 
-## 📸 Screenshots
-
-![screenshots](Screenshots.png)
 
 ## ✨ Features
 
