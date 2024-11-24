@@ -1,18 +1,5 @@
 # Catppuccin Mocha Theme for Oh My Zsh
-# Author: 0xsbNick (https://github.com/0xsbNick)
-# Repository: https://github.com/0xsbNick/catppuccin-mocha-zsh-theme
-# License:  GPL-3.0 license
-#
-# A beautiful, modern and elegant Zsh theme based on Catppuccin Mocha color palette
-# https://github.com/catppuccin/catppuccin
-#
-# To use this theme:
-# 1. Copy this file to ~/.oh-my-zsh/themes/
-# 2. Set ZSH_THEME="catppuccin-mocha" in your ~/.zshrc
-
-
-
-
+# Based on Catppuccin Mocha color palette
 
 # Catppuccin Mocha Colors
 local ROSEWATER='#f5e0dc'
@@ -36,7 +23,7 @@ local BASE='#1e1e2e'
 local MANTLE='#181825'
 
 # Color Functions
-local reset='%{$reset_color%}'
+local reset="%F{$RED}"
 local rosewater="%F{$ROSEWATER}"
 local flamingo="%F{$FLAMINGO}"
 local pink="%F{$PINK}"
@@ -57,8 +44,8 @@ local overlay="%F{$OVERLAY1}"
 # Git Info
 ZSH_THEME_GIT_PROMPT_PREFIX="${overlay}on ${lavender}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="$reset"
-ZSH_THEME_GIT_PROMPT_DIRTY="${red} ✗"
-ZSH_THEME_GIT_PROMPT_CLEAN="${green} ✓"
+ZSH_THEME_GIT_PROMPT_DIRTY="${red} ✗ "
+ZSH_THEME_GIT_PROMPT_CLEAN="${green} ✓ "
 
 # Return Status
 local return_status="%(?:${green}✔:${red}✘)"
@@ -70,8 +57,15 @@ local current_dir='${peach}%~'
 local user_host='${mauve}%n${overlay}@${teal}%m'
 
 # Main Prompt
-PROMPT="╭─${user_host} ${current_dir} \$(git_prompt_info)
-╰─${return_status}${reset} "
+PROMPT="
+╭─ ${user_host} ${current_dir} \$(git_prompt_info)
+┃
+╰─ ( ${return_status}${reset} ) ▶ "
 
 # Right Prompt with Time
 RPROMPT="${overlay}[${blue}%*${overlay}]${reset}"
+
+
+
+
+
